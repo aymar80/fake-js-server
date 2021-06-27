@@ -1,82 +1,82 @@
 {
     "root": [
   {
-    type: "folder",
-    name: "src",
-    size: "3.5  Mb",
-    last_modified: "26/02/2021 09:31 am",
-    childrens: [
+    "type": "folder",
+    "name": "src",
+    "size": "3.5  Mb",
+    "last_modified": "26/02/2021 09:31 am",
+    "childrens": [
       {
-        type: "folder",
-        name: "Components",
-        size: "1.2  Mb",
-        childrens: [
+        "type": "folder",
+        "name": "Components",
+        "size": "1.2  Mb",
+        "childrens": [
           {
-            type: "file",
-            last_modified: "02/07/2021 13:05 pm",
-            size: "3  Kb",
-            name: "Modal.js",
+            "type": "file",
+            "last_modified": "02/07/2021 13:05 pm",
+            "size": "3  Kb",
+            "name": "Modal.js",
           },
           {
-            type: "file",
-            last_modified: "05/12/2020 03:05 pm",
-            size: "2  Kb",
-            name: "Modal.css",
-          },
-        ],
-      },
-      {
-        type: "file",
-        last_modified: "05/12/2020 03:05 pm",
-        size: "21  Kb",
-        name: "index.js",
-      },
-      {
-        type: "file",
-        last_modified: "01/01/2021 05:31 am",
-        size: "35  Kb",
-        name: "index.html",
-      },
-    ],
-  },
-  {
-    type: "folder",
-    name: "public",
-    size: "2.5  Mb",
-    last_modified: "11/03/2021 09:31 am",
-    childrens: [
-      {
-        type: "folder",
-        name: "css",
-        size: "1.2  Mb",
-        childrens: [
-          {
-            type: "file",
-            last_modified: "02/07/2021 13:05 pm",
-            size: "3  Kb",
-            name: "main.js",
-          },
-          {
-            type: "file",
-            last_modified: "05/12/2020 03:05 pm",
-            size: "2  Kb",
-            name: "vendor.css",
+            "type": "file",
+            "last_modified": "05/12/2020 03:05 pm",
+            "size": "2  Kb",
+            "name": "Modal.css",
           },
         ],
       },
       {
-        type: "file",
-        last_modified: "01/01/2021 05:31 am",
-        size: "35  Kb",
-        name: "manifest.json",
+        "type": "file",
+        "last_modified": "05/12/2020 03:05 pm",
+        "size": "21  Kb",
+        "name": "index.js",
+      },
+      {
+        "type": "file",
+        "last_modified": "01/01/2021 05:31 am",
+        "size": "35  Kb",
+        "name": "index.html",
       },
     ],
   },
   {
-    type: "file",
-    name: "package.json",
-    size: "24  kb",
-    last_modified: "13/08/2021 05:31 pm",
+    "type": "folder",
+    "name": "public",
+    "size": "2.5  Mb",
+    "last_modified": "11/03/2021 09:31 am",
+    "childrens": [
+      {
+        "type": "folder",
+        "name": "css",
+        "size": "1.2  Mb",
+        "childrens": [
+          {
+            "type": "file",
+            "last_modified": "02/07/2021 13:05 pm",
+            "size": "3  Kb",
+            "name": "main.js",
+          },
+          {
+            "type": "file",
+            "last_modified: "05/12/2020 03:05 pm",
+            "size": "2  Kb",
+            "name": "vendor.css",
+          },
+        ],
+      },
+      {
+        "type": "file",
+        "last_modified": "01/01/2021 05:31 am",
+        "size": "35  Kb",
+        "name:" "manifest.json",
+      },
+    ],
+  },
+  {
+    "type": "file",
+    "name": "package.json",
+    "size": "24  kb",
+    "last_modified": "13/08/2021 05:31 pm",
   },
 ]
   }
